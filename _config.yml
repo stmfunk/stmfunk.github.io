@@ -24,7 +24,7 @@ github_username:  stmfunk
 
 # Build settings
 markdown: kramdown
-theme: architect
+theme: minima
 plugins:
   - jekyll-feed
 
